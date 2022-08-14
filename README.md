@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip Calculator App*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tip Calculator App** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Yuxin Chen**
 
-Time spent: **3** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -22,7 +22,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] Enabled slider to adjust tip percentage
+- [X] Enabled splitting total between parties feature
 
 ## Video Walkthrough
 
